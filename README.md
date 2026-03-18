@@ -118,7 +118,7 @@ This is a [Claude Code skill](https://docs.openclaw.ai/skills). Place it in your
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/win4r/openclaw-workspace ~/.claude/skills/openclaw-workspace
+git clone https://github.com/balaaha/openclaw-workspace-skill ~/.claude/skills/openclaw-workspace
 ```
 
 Claude Code will automatically detect and register the skill. It will appear in the skill list as:
@@ -180,22 +180,12 @@ Run memory distillation monthly. Promote mature rules to skill `SKILL.md` files 
 ## Related
 
 - [OpenClaw](https://openclaw.ai) — the gateway this skill supports
-- [openclaw skill](https://github.com/win4r/openclaw) — gateway operations, channel setup, multi-agent routing (separate skill)
+- [openclaw skill](https://github.com/balaaha/openclaw) — gateway operations, channel setup, multi-agent routing (separate skill)
 
 ---
 
 ## License
 
 MIT
-
-## Buy Me a Coffee
-[!["Buy Me A Coffee"](https://storage.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/aila)
-
-## My WeChat Group and My WeChat QR Code
-
-<img src="https://github.com/win4r/AISuperDomain/assets/42172631/d6dcfd1a-60fa-4b6f-9d5e-1482150a7d95" width="186" height="300">
-<img src="https://github.com/win4r/AISuperDomain/assets/42172631/7568cf78-c8ba-4182-aa96-d524d903f2bc" width="214.8" height="291">
-<img src="https://github.com/win4r/AISuperDomain/assets/42172631/fefe535c-8153-4046-bfb4-e65eacbf7a33" width="207" height="281">
-
 
 
